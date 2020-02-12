@@ -1,0 +1,7 @@
+    #include <stdio.h>
+    //export PATH=$PATH:$PWD
+    int main() {
+       // printf() displays the string inside quotation
+       printf("Hello, World!");
+       return 0;
+    }  
